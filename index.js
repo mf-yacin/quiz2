@@ -24,7 +24,7 @@ const quizData = [
     correct : "d"
 },
 {
-    question : "Le symbole du courant électrique :",
+    question : "Le symbole de l'intensité du courant :",
     a : "R",
     b : "U",
     c : "I",
